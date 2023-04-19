@@ -1,0 +1,2 @@
+copia este codigo en el CMD de la pc para que te aroje la licencia
+                  wmic csproduct get uuid
